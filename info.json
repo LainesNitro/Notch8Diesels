@@ -1,0 +1,9 @@
+{
+	"Id": "Notch8Diesels",
+	"Version": "1.1.0",
+	"DisplayName": "Notch 8 Diesels",
+	"Author": "Nitro",
+	"EntryMethod": "Notch8Diesels.Main.Load",
+	"ManagerVersion": "0.32.4",
+	"Repository": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/repository.json"
+}
